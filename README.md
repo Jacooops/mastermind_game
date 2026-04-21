@@ -1,11 +1,11 @@
 # Mastermind Game
-Un classico gioco di logica sviluppato in **Python** con la libreria **Pygame**.
+A classic logic game developed in **Python** with the **Pygame** library.
 
 ## Come Giocare
-Indovina la sequenza segreta di colori nel minor numero di tentativi possibile!
+Guess the secret color sequence in as few tries as possible!
 
 ##  Download
-Puoi scaricare l'app pronta per Mac nella sezione [Releases](https://github.com/Jacooops/mastermind_game/releases).
+You can download the app for Mac in the section [Releases](https://github.com/Jacooops/mastermind_game/releases).
 
 ---
-*Sviluppata da M. Jacopo
+*Developed by M. Jacopo
