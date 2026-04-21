@@ -1,7 +1,7 @@
 # Mastermind Game
 A classic logic game developed in **Python** with the **Pygame** library.
 
-## Come Giocare
+## How to play it
 Guess the secret color sequence in as few tries as possible!
 
 ##  Download
